@@ -1,0 +1,5 @@
+100 Tablic 100000 liczb
+wszystkie elementy tablicy losowe
+
+Quicksort
+Czas w milisekundach : 7576 ms
